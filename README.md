@@ -2,6 +2,8 @@
 
 This project is part of the Boss Level Challenges in the "The Complete 2023 Web Development Bootcamp" by Angela Yu. The Dicee Game is a simple two-player game involving dice rolls, where the player with the higher score wins.
 
+![image](https://github.com/riju951/WebDevelopmentCourse_BossLevelChallenge1_TheDiceeGame/assets/82694741/cbd970bf-29fd-49ac-93ce-0421f717d495)
+
 ## Project Description
 
 The Dicee Game project utilizes HTML, CSS, and JavaScript to create a web-based dice game. It includes the following steps:
